@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CleverTapTestAndroidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/CleverTapTestAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CleverTapTestAndroidApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CleverTapTestAndroidApp.app.iml" />
+    </modules>
+  </component>
+</project>
